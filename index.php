@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Avengers Assemble</p>'; ?> 
+ <?php echo '<p>JLA</p>'; ?> 
  </body>
 </html>
